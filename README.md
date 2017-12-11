@@ -9,9 +9,18 @@ WHY NOT USE AI FOR IT?
 # Sample Data Steal from https://github.com/HealthCatalyst/healthcareai-py
 # Those are my wife's cat by the way
 
+## Features:
+   Not sure yet
+
+### Vision:
+   
+
 ## Dependencies:
 
 + Python 3.5
 + TensorFlow >= 1.2.0
++ OpenCV
 + Python bindings for OpenCV (Optional, but required by a lot of features)
 ```
+
+## To-dos:
